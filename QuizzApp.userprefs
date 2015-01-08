@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.b3f89b55" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QuizzApp\Gefion.json">
+    <Files>
+      <File FileName="QuizzApp\Model\QuestionList.cs" Line="3" Column="3" />
+      <File FileName="QuizzApp\Views\ImageView.xaml.cs" Line="7" Column="7" />
+      <File FileName="QuizzApp\Views\QuestionView.xaml.cs" Line="2" Column="2" />
+      <File FileName="QuizzApp\Views\ResultView.xaml.cs" Line="25" Column="25" />
+      <File FileName="QuizzApp\amalienborgmuseum.json" Line="20" Column="20" />
+      <File FileName="QuizzApp\Amalienborg.json" Line="21" Column="21" />
+      <File FileName="QuizzApp\Havefrue.json" Line="21" Column="21" />
+      <File FileName="QuizzApp\Frederiks Kirke.json" Line="10" Column="10" />
+      <File FileName="QuizzApp\Gefion.json" Line="21" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Ashee\Documents\Projects\QuizzApp\QuizzApp\CustomControls\BindableRadioGroup.cs" line="40" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
